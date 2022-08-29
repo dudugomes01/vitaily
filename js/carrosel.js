@@ -6,7 +6,7 @@ onload = () => {
         nomeInst: "Instituição de Caridade",
         categoria: 0,
         imagem:
-          "images/carrosel-4.jpeg",
+          "/images/capa-carrosel.png",
       },
   
       {
@@ -14,7 +14,7 @@ onload = () => {
         nomeInst: "Instituição de Roupas",
         categoria: 1,
         imagem:
-          "images/carrosel-4.jpeg",
+          "/images/capa3.jpg",
       },
   
       {
@@ -22,7 +22,7 @@ onload = () => {
         nomeInst: "Instituição de Livros",
         categoria: 0,
         imagem:
-          "images/carrosel-4.jpeg",
+          "images/capa.jpg",
       },
       
       {
@@ -30,7 +30,7 @@ onload = () => {
         nomeInst: "Foto",
         categoria: 3,
         imagem:
-          "images/carrosel-4.jpeg",
+          "images/capa-carrosel2.png",
       },
       /*{
          id: 3,
