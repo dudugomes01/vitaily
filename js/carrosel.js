@@ -1,5 +1,5 @@
 onload = () => {
-    //---------- dados fakes ----------
+    //---------- carrosel ----------
     var imagens = [
       {
         id: 0,
@@ -11,18 +11,18 @@ onload = () => {
   
       {
         id: 1,
-        nomeInst: "Instituição de Roupas",
+        nomeInst: "Foto",
         categoria: 1,
         imagem:
-          "/images/capa3.jpg",
+          "/images/capa.png",
       },
   
       {
         id: 2,
-        nomeInst: "Instituição de Livros",
+        nomeInst: "Foto",
         categoria: 0,
         imagem:
-          "images/capa.jpg",
+          "/images/capa3.png",
       },
       
       {
@@ -30,7 +30,7 @@ onload = () => {
         nomeInst: "Foto",
         categoria: 3,
         imagem:
-          "images/capa-carrosel2.png",
+          "/images/capa-carrosel2.png",
       },
       /*{
          id: 3,
