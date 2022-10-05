@@ -6,7 +6,7 @@ onload = () => {
         nomeInst: "Instituição de Caridade",
         categoria: 0,
         imagem:
-          "/images/capa-carrosel.png",
+          "https://raw.githubusercontent.com/dudugomes01/vitaily/master/images/capa-carrosel.png",
       },
   
       {
@@ -14,7 +14,7 @@ onload = () => {
         nomeInst: "Foto",
         categoria: 1,
         imagem:
-          "/images/capa.png",
+          "https://raw.githubusercontent.com/dudugomes01/vitaily/master/images/capa.png",
       },
   
       {
@@ -22,7 +22,7 @@ onload = () => {
         nomeInst: "Foto",
         categoria: 0,
         imagem:
-          "/images/capa3.png",
+          "https://raw.githubusercontent.com/dudugomes01/vitaily/master/images/capa3.png",
       },
       
       {
@@ -30,7 +30,7 @@ onload = () => {
         nomeInst: "Foto",
         categoria: 3,
         imagem:
-          "/images/capa-carrosel2.png",
+          "https://raw.githubusercontent.com/dudugomes01/vitaily/master/images/capa-carrosel2.png",
       },
       /*{
          id: 3,
